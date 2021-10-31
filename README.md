@@ -52,8 +52,7 @@ What could be implemented further if had more time:
 - Docker features
 - Test features in depth like JEST, Mocha etc.
 - Paging features and graph features
-- Separate layers for services
-- Typescript
+- Separate layers for services,typescripts etc.
 
 =========================================
 
