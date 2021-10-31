@@ -32,3 +32,30 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+=====================================================================================================================
+
+## (Tech stacks: Reactjs, Visual Studio Code for a source-code editor and with other related libraries)
+
+In this application following features are implemented due to time constraints:
+
+- Nextjs features
+- bootstrap for UI related features
+- react-number-format for formatting the currency values
+- eslint and eslint-plugin-react-hooks features
+- asynchoronous and api calls using async and await
+-------------------
+What could be implemented further if had more time:
+
+- Routing with separate crypto currencies details
+- More time frames other than daily 
+- Docker features
+- Test features in depth like JEST, Mocha etc.
+- Paging features
+- Separate layers for services
+- Typescript
+
+=========================================
+
+Thank you! :)
+
