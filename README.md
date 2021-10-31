@@ -51,7 +51,7 @@ What could be implemented further if had more time:
 - More time frames other than daily 
 - Docker features
 - Test features in depth like JEST, Mocha etc.
-- Paging features
+- Paging features and graph features
 - Separate layers for services
 - Typescript
 
